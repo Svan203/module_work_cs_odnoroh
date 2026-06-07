@@ -1,0 +1,15 @@
+﻿--- Рядки у верхньому регістрі ---
+MODULAR WORK ONE
+MAZUR VITALII PD-23
+THIS FILE CONTAINS SEVERAL TEXT LINES
+
+--- Кількість символів у рядках ---
+Рядок: "Modular work one" | Символів: 16
+Рядок: "Mazur Vitalii PD-23" | Символів: 19
+Рядок: "This file contains several text lines" | Символів: 37
+
+--- Кількість слів у рядках ---
+Рядок: "Modular work one" | Слів: 3
+Рядок: "Mazur Vitalii PD-23" | Слів: 3
+Рядок: "This file contains several text lines" | Слів: 6
+
