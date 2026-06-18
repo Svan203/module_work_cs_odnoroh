@@ -1,4 +1,3 @@
-
 using System.Text;
 
 class Program
